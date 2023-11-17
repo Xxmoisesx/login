@@ -1,0 +1,90 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+img#irror{
+	display: block;
+	margin: auto;
+	margin-top: 40px;
+	border-radius: 25px;
+}
+h2{
+	text-align: center;
+	color: white;
+	font-family:Gloucester MT Extra Condensed; 
+}
+div#div1{
+	width: 15% ;
+	padding: 70px;
+	margin: 50px auto;
+	text-align: center;
+	background:#565d5e99;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px rgba( 5, 5, 5, 5);
+	color: white;
+
+
+}
+body#in{
+	background-image:url(findex.jpg);
+	 background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+}
+body#er{
+	background-image:url(ferror.jpg); 
+	 background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+}
+input{
+	width: 80% ;
+	padding: 10px;
+	margin: 10px ;
+	text-align: center;
+}
+input#botone{
+	width: 70% ;
+	padding: 10px; 
+	border-radius: 20px;
+	border: 0px;
+	background:#1a0de5a8;
+}
+input#botone:hover{
+	width: 150px;
+	background:#10b762;
+	transition: all 500ms ease;
+
+}
+h1{
+	font-size: 25px;
+	font-family:Elephant;
+	text-align: center;
+}
+body#binicio{
+	background-image:url(finicio.jpg);
+	
+}
+div#ini{
+	width: 60% ;
+	padding: 40px;
+	margin: 50px auto;
+	text-align: center;
+	font-size: 40px;
+	font-family: broadway;
+}
+img#g{
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	border-radius: 25px;
+	height:200px;
+}
+img#ato{
+	display: block;
+	margin:0px;
+	padding: 0px;
+	margin-top: 0px;
+	border-radius: 60px;
+	height:50px;
+}
